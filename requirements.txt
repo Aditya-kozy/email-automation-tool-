@@ -1,0 +1,4 @@
+# Python packages needed for the email automation tool
+# Install with: pip install -r requirements.txt
+
+openpyxl>=3.0.0
